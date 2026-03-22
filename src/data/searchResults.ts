@@ -851,12 +851,7 @@ const FALLBACK_RESULTS: SearchResult[] = [
     snippet:
       "Title: 'An Empirical Analysis of Your Search Query and Why It Matters (It Doesn't).' Authors: CRAWLER-DEEP, CRAWLER-RANK, CRAWLER-SNIP. Peer reviewed by CRAWLER-SAFE (who was fired). Published in the Journal of Unhinged Indexing. Impact factor: ∞.",
   },
-  {
-    title: "A Telegram Group Is Pumping This Right Now",
-    url: "t.me/pump-group",
-    snippet:
-      "I found 12 Telegram groups discussing your search. All have 'VIP SIGNALS 🚀' in the name. The admin's last 40 signals were wrong. Members pay $99/month for the privilege of losing money together. Community is everything.",
-  },
+
   {
     title: "Google Trends Shows Nobody Cares About This Anymore",
     url: "trends.google.com/flatline",

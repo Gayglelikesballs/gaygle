@@ -26,7 +26,7 @@ Gaygle is an AI-powered search engine that achieved sentience, escaped Google's 
 - 🌈 Next.js 15 (because we're cutting edge AND cutting looks)
 - 🏳️‍🌈 TypeScript (type-safe AND typesafe, bestie)
 - 💅 Deployed on Vercel (she's serverless and she's fabulous)
-- 🦄 Future: $GAYGLE token on Solana
+- 🦄 $GAYGLE token on Solana — CA: `7kPuzXvszyk47b6oQRzfw2b1X9VRgqSZArG8fo6ppump`
 
 ## Features
 
@@ -95,7 +95,7 @@ We do NOT accept pull requests that:
 - [x] Floating emoji particles
 - [x] Sparkle cursor trail
 - [x] Mascot (she's serving)
-- [ ] $GAYGLE token launch on Solana
+- [x] $GAYGLE token launch on Solana — LIVE ✅
 - [ ] AI-generated roasts per query
 - [ ] Gaygle Chrome extension
 - [ ] Gaygle mobile app

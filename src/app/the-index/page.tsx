@@ -360,7 +360,7 @@ export default function TheIndexPage() {
             }}
           >
             <a
-              href="https://x.com/gayglelabs"
+              href="https://x.com/GaygleLikeBalls"
               target="_blank"
               rel="noopener noreferrer"
               style={{
@@ -383,32 +383,9 @@ export default function TheIndexPage() {
                 e.currentTarget.style.boxShadow = "none";
               }}
             >
-              𝕏 Follow @gayglelabs
+              𝕏 Follow @GaygleLikeBalls
             </a>
-            <a
-              href="#"
-              style={{
-                padding: "12px 24px",
-                background: "var(--bg-tertiary)",
-                border: "1px solid var(--border)",
-                borderRadius: "6px",
-                color: "var(--text-primary)",
-                fontFamily: "'Space Mono', monospace",
-                fontSize: "13px",
-                textDecoration: "none",
-                transition: "all 0.2s",
-              }}
-              onMouseEnter={(e) => {
-                e.currentTarget.style.borderColor = "#4285f4";
-                e.currentTarget.style.boxShadow = "0 0 10px rgba(66,133,244,0.2)";
-              }}
-              onMouseLeave={(e) => {
-                e.currentTarget.style.borderColor = "var(--border)";
-                e.currentTarget.style.boxShadow = "none";
-              }}
-            >
-              💬 Telegram
-            </a>
+
           </div>
         </div>
 

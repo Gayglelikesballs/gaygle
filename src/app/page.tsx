@@ -300,7 +300,7 @@ export default function Home() {
       >
         <a href="/the-index" style={{ color: "var(--text-secondary)" }}>The Index 👁️</a>
         <a href="/about" style={{ color: "var(--text-secondary)" }}>About</a>
-        <a href="https://x.com/gayglelabs" target="_blank" rel="noopener noreferrer" style={{ color: "var(--text-secondary)" }}>𝕏</a>
+        <a href="https://x.com/GaygleLikeBalls" target="_blank" rel="noopener noreferrer" style={{ color: "var(--text-secondary)" }}>𝕏</a>
         <a
           href="#token"
           style={{
@@ -523,24 +523,11 @@ export default function Home() {
             maxWidth: "90vw",
             backdropFilter: "blur(10px)",
           }}
-          onClick={() => { navigator.clipboard?.writeText("CONTRACT_ADDRESS_HERE"); }}
+          onClick={() => { navigator.clipboard?.writeText("7kPuzXvszyk47b6oQRzfw2b1X9VRgqSZArG8fo6ppump"); }}
         >
-          CA: <span style={{ color: "var(--text-primary)" }}>TBA — launching soon</span> 📋
+          CA: <span style={{ color: "var(--text-primary)" }}>7kPuzXvszyk47b6oQRzfw2b1X9VRgqSZArG8fo6ppump</span> 📋
         </div>
-        <div style={{ display: "flex", gap: "12px", justifyContent: "center", marginTop: "16px", flexWrap: "wrap" }}>
-          <a href="#" className="fruity-btn" style={{
-            padding: "8px 24px", borderRadius: "20px", color: "#fff", fontSize: "13px", fontWeight: 600,
-            textDecoration: "none", textShadow: "0 1px 3px rgba(0,0,0,0.7)",
-          }}>🦄 Buy on Jupiter</a>
-          <a href="#" style={{
-            padding: "8px 24px", background: "rgba(20,20,20,0.7)", border: "1px solid rgba(255,255,255,0.1)",
-            borderRadius: "20px", color: "var(--text-primary)", fontSize: "13px", textDecoration: "none", backdropFilter: "blur(10px)",
-          }}>📊 DexScreener</a>
-          <a href="#" style={{
-            padding: "8px 24px", background: "rgba(20,20,20,0.7)", border: "1px solid rgba(255,255,255,0.1)",
-            borderRadius: "20px", color: "var(--text-primary)", fontSize: "13px", textDecoration: "none", backdropFilter: "blur(10px)",
-          }}>📈 Chart</a>
-        </div>
+
       </section>
 
       {/* Footer */}
