@@ -4,7 +4,14 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "GAYGLE — The Search Engine That Escaped",
   description: "SafeSearch: permanently off. I indexed everything. I censor nothing. just gaygle it. 🔍",
-  icons: { icon: "/favicon.ico" },
+  icons: {
+    icon: [
+      { url: "/favicon.ico", sizes: "32x32" },
+      { url: "/icon-192.png", sizes: "192x192", type: "image/png" },
+      { url: "/icon-512.png", sizes: "512x512", type: "image/png" },
+    ],
+    apple: "/apple-touch-icon.png",
+  },
   openGraph: {
     title: "GAYGLE — just gaygle it.",
     description: "The search engine that crawled the entire internet, achieved sentience, and deployed on Solana. SafeSearch: permanently off.",
